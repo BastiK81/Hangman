@@ -7,6 +7,5 @@ public class Main {
 
         Hangman hangman = new Hangman(checkWord);
         hangman.startHangman();
-
     }
 }
